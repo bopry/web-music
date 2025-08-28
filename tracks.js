@@ -1,1 +1,1 @@
-const trackNamesArr = ['dj_osama_platina'];
+const trackNamesArr = [{'trackName':'dj_osama_platina', 'imgName':'dj_osama_platina'}];
